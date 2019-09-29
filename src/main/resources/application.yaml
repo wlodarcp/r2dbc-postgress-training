@@ -1,0 +1,9 @@
+database:
+  driver: "pool"
+  protocol: "postgresql"
+  host: "localhost"
+  port: 5432
+  username: "postgres"
+  password: "mysecretpassword"
+  database: "postgres"
+
